@@ -14,4 +14,4 @@ class NBmodel(object):
 
     def predict(self, X, features_names=None):
         print(X)
-        return self.model.predict(X)
+        return self.model.predict([X])
