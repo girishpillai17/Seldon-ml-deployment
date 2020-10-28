@@ -4,7 +4,7 @@ import pickle
 import time
 import sklearn
 
-class NBmodel(object):
+class NBModel(object):
     def __init__(self):
         self.model = pickle.load(open("NBmodel.pkl", "rb"))
 
