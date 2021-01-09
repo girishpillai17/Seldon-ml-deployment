@@ -1,5 +1,5 @@
 # Seldon-ml-deployment
-
+# Open-source platform for rapidly deploying machine learning models on Kubernetes
 Seldon provides a fully integrated deployment workflow that supports the following team members:
 
     Data Scientists — loads runtime models into containers as microservice components and runs sandbox tests from historical or live data feeds.
